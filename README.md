@@ -5,7 +5,7 @@
     <br>320 efficient solutions to HackerRank problems
 </p>
 
-[Java](#java) Track- Java 7
+Solutions coded in Java 7
 
 # Java
 
